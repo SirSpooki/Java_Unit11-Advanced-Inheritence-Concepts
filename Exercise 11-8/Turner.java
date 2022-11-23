@@ -1,4 +1,4 @@
 public interface Turner
 {
-   public void turn();
+   public abstract void turn();
 }
